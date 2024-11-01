@@ -1,0 +1,9 @@
+.user.ini
+allow-list.php
+block-countries.php
+block-list.php
+block-regexes-uri.php
+block-regexes-payload.php
+waf-errors.log
+waf-payloads.log
+node_modules

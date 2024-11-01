@@ -1,0 +1,25 @@
+.wgo-icon{width:30px;height:30px;font-size:30px}
+.wgo-wrap{background:#fff;border:1px dashed grey;margin-top:20px;padding:20px;margin-right:20px}
+.span-install{float:right}
+.span-install .button{color:red;border-color:red}
+.button-green{background-color:green!important;border-color:green!important;color:#fff!important}
+.button-red{background-color:red!important;border-color:red!important;color:#fff!important}
+.wrap-block-and-allow-countries,.wrap-block-and-allow-lists{display:flex}
+#wrap-allow-list,#wrap-block-list,#wrap-no-track-list{width:33.33%}
+#wrap-countries-continents-allowed,#wrap-countries-continents-blocked{width:50%}
+.waf-select-area-config,.waf-textarea-config{width:100%;max-width:none!important;min-height:400px}
+#submit-set-default-regexes-payload,#submit-set-default-regexes-uri{float:right}
+.button-download-ban-rules,.button-download-regexes{border:none;background:0 0;text-decoration:underline;margin:8px;color:#00f;cursor:pointer}
+#wgo-datatable-container{padding:5px;margin:0;box-shadow:2px 2px 3px;border-radius:3px}
+#wgo-datatable-container #wgo-datatable tfoot{display:table-header-group!important}
+#wgo-datatable-container #wgo-datatable tfoot input{width:100%!important}
+#wgo-datatable-container .dataTables_wrapper .dataTables_length,#wgo-datatable-container .dataTables_wrapper .dt-buttons{padding-top:.25em}
+#wgo-datatable-container .dataTables_wrapper .dataTables_length select,#wgo-datatable-container .dataTables_wrapper .dt-buttons select{height:32px;width:80px;margin:0 5px;line-height:18px}
+#wgo-datatable-container .dataTables_wrapper .dt-buttons{padding-left:10px}
+#wgo-datatable-container .dataTables_wrapper .dataTables_filter input{height:32px}
+.wgo-d-none{display:none}
+.wgo-box{padding:5px;margin:5px 20px 10px 0;box-shadow:2px 2px 3px;border-radius:3px}
+.wgo-box .wrap{margin-right:2px}
+.wgo-progress-bar-border{width:100%;height:15px;border-radius:10px;overflow:hidden;box-shadow:3px 3px 5px;margin-top:3px;margin-bottom:17px;background-color:rgba(255,0,0,.8)}
+.wgo-progress-queue-content{width:0%;transition:width 1s;background-color:#b9b4ff;height:15px;text-align:center;font-weight:700}
+.wgo-progress-queue-text{position:absolute;width:98%;text-align:center;font-weight:700;font-size:15px;line-height:15px;color:#000}
